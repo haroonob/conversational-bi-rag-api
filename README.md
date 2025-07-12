@@ -10,7 +10,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - 📂 **RAG-Powered**: Uses schema, sample queries, filters, and metrics embedded via ChromaDB.
 - 🧠 **Embeddings**: Generates and stores vector embeddings from documents for context-aware responses.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -21,7 +21,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - **Docker Compose** – Containerized deployment
 - **SSE/WebSocket** – Real-time data streaming (SSE implemented)
 
----
+
 
 ## 🛠️ Project Structure
 
@@ -37,7 +37,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - 📂 **RAG-Powered**: Uses schema, sample queries, filters, and metrics embedded via ChromaDB.
 - 🧠 **Embeddings**: Generates and stores vector embeddings from documents for context-aware responses.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -48,7 +48,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - **Docker Compose** – Containerized deployment
 - **SSE/WebSocket** – Real-time data streaming (SSE implemented)
 
----
+
 
 ## 🛠️ Project Structure
 
@@ -64,7 +64,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - 📂 **RAG-Powered**: Uses schema, sample queries, filters, and metrics embedded via ChromaDB.
 - 🧠 **Embeddings**: Generates and stores vector embeddings from documents for context-aware responses.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -75,7 +75,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - **Docker Compose** – Containerized deployment
 - **SSE/WebSocket** – Real-time data streaming (SSE implemented)
 
----
+
 
 ## 🛠️ Project Structure
 
@@ -91,7 +91,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - 📂 **RAG-Powered**: Uses schema, sample queries, filters, and metrics embedded via ChromaDB.
 - 🧠 **Embeddings**: Generates and stores vector embeddings from documents for context-aware responses.
 
----
+
 
 ## 🚀 Tech Stack
 
@@ -102,7 +102,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - **Docker Compose** – Containerized deployment
 - **SSE/WebSocket** – Real-time data streaming (SSE implemented)
 
----
+
 
 ## 🛠️ Project Structure
 
@@ -117,7 +117,7 @@ conversational-bi-rag-backend/
 └── requirements.txt
 
 
----
+
 
 ## ⚙️ Setup Instructions
 
