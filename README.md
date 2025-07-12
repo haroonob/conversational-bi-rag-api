@@ -115,7 +115,7 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 # Note 
 wait for following message in logs before using
 it will download , update and insert for data to database
-https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx"
+https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx
 
 ### loader-1    | Data loaded and dates shifted into 'orders' table successfully!
 
@@ -130,7 +130,7 @@ https://github.com/haroonob/react-ui-for-conversational-bi.git
     {
     "question": "Show total revenue by month"
     }
-
+```
 
 ## 🛠️ Project Structure
 ```markdown
