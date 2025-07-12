@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+chromadb
+pydantic
+sqlalchemy
+psycopg2-binary
+python-dotenv
+asyncio

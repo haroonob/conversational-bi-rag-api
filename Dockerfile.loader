@@ -1,0 +1,9 @@
+FROM python:3.10-slim
+
+WORKDIR /loader
+
+RUN pip install pandas sqlalchemy psycopg2-binary openpyxl
+
+COPY data_loader.py .
+
+CMD ["python", "data_loader.py"]
