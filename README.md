@@ -22,8 +22,10 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
-``` git clone https://github.com/haroonob/conversational-bi-rag-backend.git```
-```cd conversational-bi-rag-backend```
+```markdown
+       git clone https://github.com/haroonob/conversational-bi-rag-backend.git
+       cd conversational-bi-rag-backend
+```
 
 ## 2. Create .env File
 ```OPENAI_API_KEY=your-openai-key```
