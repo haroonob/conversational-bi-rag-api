@@ -100,6 +100,38 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - **Docker Compose** – Containerized deployment
 - **SSE/WebSocket** – Real-time data streaming (SSE implemented)
 
+## ⚙️ Setup Instructions
+
+### 1. Clone the Repository
+``` git clone https://github.com/haroonob/conversational-bi-rag-backend.git```
+```cd conversational-bi-rag-backend```
+
+## 2. Create .env File
+```OPENAI_API_KEY=your-openai-key```
+
+## 3. Run with Docker Compose
+```docker compose up --build```
+
+# Note 
+wait for following message in logs before using
+it will download , update and insert for data to database
+https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx"
+
+### loader-1    | Data loaded and dates shifted into 'orders' table successfully!
+
+# UI It is using following ui for demo purpose  
+https://github.com/haroonob/react-ui-for-conversational-bi.git
+
+![Preview](https://raw.githubusercontent.com/haroonob/react-ui-for-conversational-bi/main/src/assets/mainpage.png)
+
+# API Endpoints
+```markdown
+    [POST /api/query]
+    {
+    "question": "Show total revenue by month"
+    }
+
+
 ## 🛠️ Project Structure
 ```markdown
     conversational-bi-rag-backend/
@@ -112,15 +144,4 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
     ├── docker-compose.yml # Full stack orchestration
     └── requirements.txt
 
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-``` git clone https://github.com/haroonob/conversational-bi-rag-backend.git```
-```cd conversational-bi-rag-backend```
-
-## 2. Create .env File
-```OPENAI_API_KEY=your-openai-key```
-
-## 3. Run with Docker Compose
-```docker compose up --build```
 
