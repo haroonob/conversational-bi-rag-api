@@ -101,16 +101,16 @@ A Python backend for a Conversational Business Intelligence (BI) system powered 
 - **SSE/WebSocket** – Real-time data streaming (SSE implemented)
 
 ## 🛠️ Project Structure
-
-conversational-bi-rag-backend/
-├── app/
-│ ├── main.py # FastAPI entrypoint,SSE streaming responses,SQL generation and execution
-│ ├── rag_retriever.py # Embedding-based RAG
-│├── docs/ # RAG training documents
-├── Dockerfile # Backend Dockerfile
-├── data_loader.py # Loading open source order data to postgres
-├── docker-compose.yml # Full stack orchestration
-└── requirements.txt
+```markdown
+    conversational-bi-rag-backend/
+    ├── app/
+    │ ├── main.py # FastAPI entrypoint,SSE streaming responses,SQL generation and execution
+    │ ├── rag_retriever.py # Embedding-based RAG
+    │├── docs/ # RAG training documents
+    ├── Dockerfile # Backend Dockerfile
+    ├── data_loader.py # Loading open source order data to postgres
+    ├── docker-compose.yml # Full stack orchestration
+    └── requirements.txt
 
 ## ⚙️ Setup Instructions
 
