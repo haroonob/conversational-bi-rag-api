@@ -40,7 +40,8 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.
 
 ### loader-1    | Data loaded and dates shifted into 'orders' table successfully!
 
-# UI It is using following ui for demo purpose  
+# UI 
+It is using following ui for demo purpose  
 https://github.com/haroonob/react-ui-for-conversational-bi.git
 
 ![Preview](https://raw.githubusercontent.com/haroonob/react-ui-for-conversational-bi/main/src/assets/mainpage.png)
